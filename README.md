@@ -1,4 +1,4 @@
-# Aarti-Bisht<h1 align="center">Hi 👋, I'm Aarti Bisht</h1>
+#  👋, I'm Aarti Bisht
 <h3 align="center">A passionate fronted developer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aartibisht9666&label=Profile%20views&color=0e75b6&style=flat" alt="aartibisht9666" /> </p>
